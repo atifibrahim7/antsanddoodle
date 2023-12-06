@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\fiverr\atifibrahim7\Spaceshooter\dynamicsfml\game.h(47,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\fiverr\atifibrahim7\Spaceshooter\dynamicsfml\game.h(144,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dynamicsfml.vcxproj -> D:\fiverr\atifibrahim7\Spaceshooter\Debug\dynamicsfml.exe
